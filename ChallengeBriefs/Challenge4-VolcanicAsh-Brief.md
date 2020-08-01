@@ -1,4 +1,4 @@
-# Challenge 3: Quantifying and communicating uncertainty in volcanic ash forecasts
+# Challenge 4: Quantifying and communicating uncertainty in volcanic ash forecasts
 
 Volcanic ash within the atmosphere can pose a significant hazard to aircraft leading, in some cases, to engine failure. During a volcanic eruption, forecasts are made of the predicted atmospheric transport and dispersion of the ash cloud and advisories issued to the aviation community.
 
